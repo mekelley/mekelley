@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**mekelley/mekelley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Megan E. Kelley, PhD
+Postdoctoral Research Scholar, Sfeir Lab, Sloan Kettering Institute (MSKCC).
+Cancer genome stability · extrachromosomal DNA · DNA repair · live-cell and high-
+content imaging.
+**Website:** https://mekelley.github.io · **ORCID:** https://orcid.org/
+0000-0002-0251-5054 · **Scholar:** https://scholar.google.com/citations?
+user=k53qKr0AAAAJ
+**Code**
+- [`spastin-NER`](https://github.com/mekelley/spastin-NER) — analysis code for
+Kelley et al., *Mol Biol Cell* 2024 (spastin, anaphase chromosome separation,
+nuclear tunnels)
+- [`profiling-resistance-mechanisms`](https://github.com/mekelley/profiling-
+resistance-mechanisms) — fork of the Way-lab repository for Kelley et al., *eLife*
+2023 (Cell Painting signature of bortezomib resistance)
